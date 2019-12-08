@@ -1,4 +1,5 @@
-# projeto1
+# Lista To Do - Oficina de Vue JS
+## Projeto de lista de To Do criado para elaboração em oficina sobre Vue.js ministrada na semana acadêmica do curso de sistemas de informação do Instituto Federal Farroupilha - Campus São Borja.
 
 ## Project setup
 ```
